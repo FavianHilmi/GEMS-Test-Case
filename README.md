@@ -1,20 +1,16 @@
-# GEMS-Test-Case# 🏗️ Project Management System (Gems Test)
+# Project Management System (Gems Test)
 
-Sistem manajemen proyek sederhana berbasis Laravel untuk mengelola *Work Packages*, *Bill of Quantities* (BOQ), dan pelacakan progress harian.
+Sistem manajemen proyek sederhana berbasis Laravel untuk mengelola *Work Packages*, *Bill of Quantities* (BOQ), dan pelacakan progress by date.
 
----
+## Prerequisites
 
-## 🛠️ Prasyarat (Prerequisites)
-
-Sebelum memulai, pastikan perangkat Anda sudah terinstall:
+Pastikan perangkat Anda sudah terinstall:
 * PHP >= 8.2
 * Composer
 * MySQL / MariaDB
 * Web Server (Apache/Nginx/Artisan Serve)
 
----
-
-## 🚀 Panduan Instalasi
+## Panduan Instalasi
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan project di lingkungan lokal:
 
