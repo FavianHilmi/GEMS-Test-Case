@@ -10,7 +10,7 @@ Pastikan perangkat Anda sudah terinstall:
 * MySQL / MariaDB
 * Web Server (Apache/Nginx/Artisan Serve)
 
-## Panduan Instalasi
+## Installation Guide
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan project di lingkungan lokal:
 
@@ -18,3 +18,8 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project di lingkungan lokal
 ```bash
 git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
 cd project-name
+
+### 2. Install Dependency
+```bash
+composer install
+npm install && npm run build
